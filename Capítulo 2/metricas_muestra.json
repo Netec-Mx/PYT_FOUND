@@ -1,0 +1,14 @@
+[
+  {"sensor_id": "srv-001", "service": "api-gateway",   "cpu_pct": 72.4,  "mem_pct": 65.1,  "latency_ms": 210, "timestamp": "2024-06-01T09:00:00Z", "region": "us-east-1"},
+  {"sensor_id": "srv-002", "service": "db-primary",    "cpu_pct": 88.0,  "mem_pct": 91.3,  "latency_ms": 540, "timestamp": "2024-06-01T09:00:05Z", "region": "us-east-1"},
+  {"sensor_id": "srv-003", "service": "auth-service",  "cpu_pct": 34.5,  "mem_pct": 42.0,  "latency_ms": 95,  "timestamp": "2024-06-01T09:00:10Z", "region": "eu-west-1"},
+  {"sensor_id": "srv-004", "service": "api-gateway",   "cpu_pct": null,  "mem_pct": 55.7,  "latency_ms": 185, "timestamp": "2024-06-01T09:00:15Z", "region": "us-east-1"},
+  {"sensor_id": "srv-005", "service": "cache-layer",   "cpu_pct": 19.2,  "mem_pct": 30.4,  "latency_ms": 12,  "timestamp": "2024-06-01T09:00:20Z", "region": "ap-south-1"},
+  {"sensor_id": "srv-006", "service": "db-replica",    "cpu_pct": 55.8,  "mem_pct": 78.9,  "latency_ms": 320, "timestamp": "2024-06-01T09:00:25Z", "region": "eu-west-1"},
+  {"sensor_id": "srv-007", "service": "auth-service",  "cpu_pct": 41.0,  "mem_pct": null,  "latency_ms": 110, "timestamp": "2024-06-01T09:00:30Z", "region": "eu-west-1"},
+  {"sensor_id": "srv-008", "service": "cache-layer",   "cpu_pct": 22.7,  "mem_pct": 28.1,  "latency_ms": 8,   "timestamp": "2024-06-01T09:00:35Z", "region": "ap-south-1"},
+  {"sensor_id": "srv-009", "service": "api-gateway",   "cpu_pct": 95.1,  "mem_pct": 87.4,  "latency_ms": 980, "timestamp": "2024-06-01T09:00:40Z", "region": "us-east-1"},
+  {"sensor_id": "srv-010", "service": "db-primary",    "cpu_pct": 77.3,  "mem_pct": 83.0,  "latency_ms": 460, "timestamp": "2024-06-01T09:00:45Z", "region": "us-east-1"},
+  {"sensor_id": "srv-011", "service": "db-replica",    "cpu_pct": 60.5,  "mem_pct": 72.2,  "latency_ms": 290, "timestamp": "2024-06-01T09:00:50Z", "region": "eu-west-1"},
+  {"sensor_id": "srv-012", "service": "cache-layer",   "cpu_pct": 18.0,  "mem_pct": 25.5,  "latency_ms": null,"timestamp": "2024-06-01T09:00:55Z", "region": "ap-south-1"}
+]

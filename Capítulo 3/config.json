@@ -1,0 +1,18 @@
+{
+  "api": {
+    "endpoint": "https://api.mi-nube.com/v2/metricas",
+    "token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.simulado",
+    "timeout_s": 10,
+    "reintentos": 3
+  },
+  "procesamiento": {
+    "umbral_cpu_alerta": 85.0,
+    "umbral_latencia_ms": 500,
+    "region": "us-east-1",
+    "batch_size": 50
+  },
+  "logging": {
+    "nivel": "INFO",
+    "archivo_log": "sdk_eventos.log"
+  }
+}

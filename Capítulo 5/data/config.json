@@ -1,0 +1,17 @@
+{
+  "api": {
+    "endpoint": "https://api.mi-nube.com",
+    "token": "api-key-laboratorio-python-2024",
+    "timeout_s": 10,
+    "reintentos": 3
+  },
+  "procesamiento": {
+    "umbral_cpu_alerta": 85.0,
+    "umbral_latencia_ms": 500,
+    "region": "us-east-1"
+  },
+  "logging": {
+    "nivel": "INFO",
+    "archivo_log": "sdk_eventos.log"
+  }
+}

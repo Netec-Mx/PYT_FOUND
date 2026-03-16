@@ -1,0 +1,52 @@
+2026-03-16 13:20:08 | INFO     | sdk_nube | Logger inicializado. Log guardado en: 'sdk_eventos.log'
+2026-03-16 13:20:08 | INFO     | sdk_nube | ApiClient inicializado → base_url: 'https://api.mi-nube.com'
+2026-03-16 13:20:08 | INFO     | sdk_nube | Iniciando autenticación del cliente...
+2026-03-16 13:20:08 | INFO     | sdk_nube | Autenticación completada. Sesión activa.
+2026-03-16 13:20:08 | INFO     | sdk_nube | MetricsEndpoint inicializado.
+2026-03-16 13:20:08 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas | params={'region': 'us-east-1'}
+2026-03-16 13:20:08 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:20:08 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:20:09 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas/s-002
+2026-03-16 13:20:09 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:20:09 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:20:09 | INFO     | sdk_nube | POST https://api.mi-nube.com/v2/metricas | body_keys=['metricas', 'total']
+2026-03-16 13:20:09 | INFO     | sdk_nube | Respuesta recibida: HTTP 201
+2026-03-16 13:20:09 | INFO     | sdk_nube | Solicitud exitosa (HTTP 201).
+2026-03-16 13:20:09 | INFO     | sdk_nube | POST https://api.mi-nube.com/v2/metricas | body_keys=['metricas', 'total']
+2026-03-16 13:20:09 | INFO     | sdk_nube | Respuesta recibida: HTTP 500
+2026-03-16 13:20:09 | ERROR    | sdk_nube | Error HTTP 500: Error interno del servidor al procesar el lote.
+2026-03-16 13:20:09 | INFO     | sdk_nube | LogsEndpoint inicializado.
+2026-03-16 13:20:09 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/logs | params=None
+2026-03-16 13:20:09 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:20:09 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:20:09 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/logs | params={'nivel': 'ERROR'}
+2026-03-16 13:20:09 | INFO     | sdk_nube | Respuesta recibida: HTTP 401
+2026-03-16 13:20:09 | ERROR    | sdk_nube | Error HTTP 401: Token inválido o expirado.
+2026-03-16 13:20:09 | INFO     | sdk_nube | Sesión cerrada. Token revocado.
+2026-03-16 13:20:09 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas | params=None
+2026-03-16 13:21:23 | INFO     | sdk_nube | Logger inicializado. Log guardado en: 'sdk_eventos.log'
+2026-03-16 13:21:23 | INFO     | sdk_nube | ApiClient inicializado → base_url: 'https://api.mi-nube.com'
+2026-03-16 13:21:23 | INFO     | sdk_nube | Iniciando autenticación del cliente...
+2026-03-16 13:21:23 | INFO     | sdk_nube | Autenticación completada. Sesión activa.
+2026-03-16 13:21:23 | INFO     | sdk_nube | MetricsEndpoint inicializado.
+2026-03-16 13:21:23 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas | params={'region': 'us-east-1'}
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:21:23 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:21:23 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas/s-002
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:21:23 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:21:23 | INFO     | sdk_nube | POST https://api.mi-nube.com/v2/metricas | body_keys=['metricas', 'total']
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 201
+2026-03-16 13:21:23 | INFO     | sdk_nube | Solicitud exitosa (HTTP 201).
+2026-03-16 13:21:23 | INFO     | sdk_nube | POST https://api.mi-nube.com/v2/metricas | body_keys=['metricas', 'total']
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 500
+2026-03-16 13:21:23 | ERROR    | sdk_nube | Error HTTP 500: Error interno del servidor al procesar el lote.
+2026-03-16 13:21:23 | INFO     | sdk_nube | LogsEndpoint inicializado.
+2026-03-16 13:21:23 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/logs | params=None
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 200
+2026-03-16 13:21:23 | INFO     | sdk_nube | Solicitud exitosa (HTTP 200).
+2026-03-16 13:21:23 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/logs | params={'nivel': 'ERROR'}
+2026-03-16 13:21:23 | INFO     | sdk_nube | Respuesta recibida: HTTP 401
+2026-03-16 13:21:23 | ERROR    | sdk_nube | Error HTTP 401: Token inválido o expirado.
+2026-03-16 13:21:23 | INFO     | sdk_nube | Sesión cerrada. Token revocado.
+2026-03-16 13:21:23 | INFO     | sdk_nube | GET https://api.mi-nube.com/v2/metricas | params=None
