@@ -10,29 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-```
-metricas_muestra.json
-         │
-         ▼
-┌─────────────────────┐
-│  cargar_metricas()  │  ← Tarea 1: Carga + Validación
-│  validar_metrica()  │     Tipado estático / *args
-│  validar_lote()     │     Retornos múltiples
-└─────────┬───────────┘
-          │   (válidas, inválidas)
-          ▼
-┌──────────────────────────┐
-│  calcular_estadisticas() │  ← Tarea 2: Procesamiento
-│  simular_envio_api()     │     Optional / **kwargs
-└─────────┬────────────────┘
-          │   Dict con stats + resultado API
-          ▼
-┌──────────────────────────┐
-│  Reporte final           │  ← Tarea 3: Integración
-└──────────────────────────┘
-```
-
-
+![imagen resultado](../images/obj_2.png)
 
 ## Duración aproximada:
 - 25–30 minutos.

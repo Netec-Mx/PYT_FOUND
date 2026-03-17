@@ -10,11 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-```
-cloud_logs.json → [ Exploración ] → [ Filtrado ] → [ Agregación ] → Resumen estructurado
-     (datos) claves, tipos errores, sets, dicts
-                      total registros endpoints usuarios únicos
-```
+![imagen resultado](../images/obj_1.png)
 
 ## Duración aproximada:
 

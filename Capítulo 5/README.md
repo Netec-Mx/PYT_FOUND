@@ -10,35 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-```
-                        ApiClient
-                            │
-               ┌────────────┴────────────┐
-               │                         │
-        @property                   @property
-        .metrics                    .logs
-               │                         │
-               ▼                         ▼
-      MetricsEndpoint             LogsEndpoint
-               │                         │
-               └──────────┬──────────────┘
-                           │
-                    BaseEndpoint
-                    ┌──────┴───────┐
-                    │              │
-                  _get()        _post()
-                    │              │
-                    └──────┬───────┘
-                           │
-               _procesar_respuesta()
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-           200/201     4xx errors  5xx errors
-           → data      → SDKError  → SDKError
-                       subclasses  subclasses
-```
-
+![imagen resultado](../images/obj_5.png)
 
 ## Duración aproximada:
 - 25–30 minutos.

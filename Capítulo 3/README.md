@@ -10,21 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-```
-      config.json                 sensores.json
-          │                            │
-          ▼                            ▼
- ┌────────────────────┐   ┌────────────────────────┐
- │  cargar_config()   │   │  procesar_metricas()   │
- │  try-except-else   │──▶│  DatosFaltantes        │
- │  finally + logging │   │  logging + stats       │
- └────────┬───────────┘   └──────────┬─────────────┘
-          │                          │
-          │  ConfiguracionInvalida   │  Dict{ status,
-          │  DatosFaltantes          │        resultado,
-          ▼                          ▼        errores }
-       sdk_eventos.log  ←── logging ────────────────
-```
+![imagen resultado](../images/obj_3.png)
 
 ## Duración aproximada:
 - 15–20 minutos.

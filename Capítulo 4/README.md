@@ -10,23 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-```
-Capítulo 4/
-├── sdk/                         ← Paquete Python (módulos del SDK)
-│   ├── __init__.py              │
-│   ├── logging_utils.py  ───── Logger centralizado
-│   ├── config.py         ───── Carga JSON/YAML con pathlib
-│   ├── processing.py     ───── Estadísticas + alertas
-│   └── client.py         ───── Cliente REST
-│
-├── data/                        ← Archivos de datos
-│   ├── config.json       ───── Configuración del SDK
-│   └── metricas.json     ───── Dataset de sensores
-│
-├── main.py               ───── Script principal (orquesta todo)
-├── requirements.txt      ───── Dependencias reproducibles
-└── sdk_eventos.log       ───── Generado al ejecutar main.py
-```
+![imagen resultado](../images/obj_4.png)
 
 ## Duración aproximada:
 - 25–30 minutos.
