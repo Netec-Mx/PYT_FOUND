@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 ![imagen resultado](../images/obj_2.png)
 
 ## Duración aproximada:
-- 25–30 minutos.
+- 20–25 minutos.
 
 ## Dinámica del laboratorio
 
