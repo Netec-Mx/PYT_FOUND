@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 ![imagen resultado](../images/obj_3.png)
 
 ## Duración aproximada:
-- 15–20 minutos.
+- 20–25 minutos.
 
 ## Instrucciones
 
