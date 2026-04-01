@@ -21,8 +21,8 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Python Mo
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 
-
-### [Laboratorio 1. Análisis de Logs JSON de un Servicio en la Nube](Capítulo 1/README.md) .
+### [Práctica 1. Njjsjjs](Capítulo 1/README.md) 
+### [Laboratorio 1. Análisis de Logs JSON de un Servicio en la Nube](Capítulo 1/README.md)
 
   - **Descripción**: Al finalizar la práctica, serás capaz de manejar estructuras de datos avanzadas en Python, como listas, diccionarios y sets, para procesar eficientemente registros en formato JSON. Asimismo, podrás aplicar técnicas de filtrado, transformación y agregación de datos que te permitirán extraer información relevante de manera estructurada. Finalmente, desarrollarás el criterio necesario para seleccionar la estructura de datos más adecuada según la tarea, dejando preparada la información para su integración y manipulación en APIs REST en prácticas futuras..
 
