@@ -156,7 +156,7 @@ print(conteo)
 **La Opción A es la más adecuada.**
 
 | Criterio             | A                                              | B                                        | C                                                                |
-| -------------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- |
+|----------------------|-----------------------------------------------|------------------------------------------|------------------------------------------------------------------|
 | **Legibilidad**      | Clara y explícita en cada paso del proceso     | Concisa pero menos evidente para novatos | Difícil de seguir                                                |
 | **Eficiencia**       | O(n)                                           | O(n)                                     | O(n²) — `.count()` recorre la lista completa por cada tipo único |
 | **Uso del estándar** | Implementación directa con estructuras básicas | Requiere conocer `collections.Counter`   | Mezcla `set`, `list` y `.count()` innecesariamente               |
