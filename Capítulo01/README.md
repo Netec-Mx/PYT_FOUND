@@ -152,7 +152,6 @@ print(conteo)
 
 <details>
 <summary><strong> Ver respuesta recomendada</strong></summary>
-<br>
 
 **La Opción A es la más adecuada.**
 
