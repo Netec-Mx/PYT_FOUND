@@ -150,7 +150,7 @@ for t in tipos_unicos:
 print(conteo)
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 **La Opción A es la más adecuada.**
