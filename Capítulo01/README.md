@@ -256,9 +256,9 @@ while i < len(logs):
     i += 1
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
-<br>
+
 
 **La Opción B es la más adecuada.**
 
@@ -375,7 +375,7 @@ Tu objetivo es que, al leer el código comentado, **otra persona pueda comprende
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong> Ver Ejemplo de respuesta</strong></summary>
 
 ```python
