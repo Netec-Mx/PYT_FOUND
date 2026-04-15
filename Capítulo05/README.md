@@ -110,7 +110,7 @@ raise exc_cls()
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta correcta</strong></summary>
 
 <br>
@@ -207,7 +207,7 @@ if not self._autenticado or not self._token:
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta correcta</strong></summary>
 
 <br>
@@ -293,7 +293,7 @@ return self._metrics
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
@@ -370,7 +370,7 @@ def ejecutar(mock_get):
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
