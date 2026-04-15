@@ -136,7 +136,7 @@ Dado el archivo `sdk/config.py`, desde la línea 54, completa la implementación
 ```
 
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
@@ -204,7 +204,7 @@ Dado el archivo `sdk/processing.py`, desde la línea 99, completa la implementac
 ```
 
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
@@ -252,7 +252,7 @@ Dado el archivo `sdk/client.py`, desde la línea 55, completa la implementación
 
 
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
@@ -322,7 +322,7 @@ Se debe considerar:
 
 
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
