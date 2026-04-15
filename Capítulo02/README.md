@@ -145,7 +145,7 @@ def validar_metrica(metrica, campos_requeridos):
     return es_valida, errores
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 <br>
 
@@ -223,9 +223,8 @@ def validar_lote(*args: Dict[str, Any]) -> Tuple[List[Dict], List[Dict]]:
     return validas, invalidas
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
-
 <br>
 
 **El Fragmento B es el más adecuado.**
@@ -375,7 +374,7 @@ def calcular_estadisticas(
     }
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 <br>
 
@@ -482,7 +481,7 @@ def simular_envio_api(payload, config):
     }
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 <br>
 
