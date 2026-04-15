@@ -238,7 +238,7 @@ def cargar_config(ruta: str) -> Dict[str, Any]:
             logger.info(f"Archivo '{ruta}' cerrado.")
 ```
 
-<details>
+<details markdown="1">
 <summary><strong> Ver respuesta recomendada</strong></summary>
 
 <br>
